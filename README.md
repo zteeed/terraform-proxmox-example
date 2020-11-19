@@ -11,6 +11,9 @@
 ## Documentation
 
 [https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/index.md](https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/index.md)
+[https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/provider.md](https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/provider.md)
+[https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/resource_vm_qemu.md](https://github.com/ondrejsika/terraform-provider-proxmox/blob/master/docs/resource_vm_qemu.md)
+[https://github.com/Telmate/terraform-provider-proxmox/blob/master/docs/resources/lxc.md](https://github.com/Telmate/terraform-provider-proxmox/blob/master/docs/resources/lxc.md)
 
 ## Commands
 
